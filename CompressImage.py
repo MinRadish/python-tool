@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3.8
 # -*- coding: utf-8 -*-
 # @Date    : 2020-06-07 11:18 Sunday
 # @Author  : Radish (1004622952@qq.com)
