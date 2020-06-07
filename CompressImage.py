@@ -63,7 +63,7 @@ def getMultiple(width, height, maxSize = 50):
         # return -1;
 
 if __name__ == '__main__':
-    INPUT_DIR = '/data/wwwroot/www.51wenju.com.cn/public/upload/images'
-    OUT_DIR = '/data/wwwroot/www.51wenju.com.cn/public/upload/images'
+    INPUT_DIR = 'F:/PHP/workingSpace/app11/public/uploads/backend'
+    OUT_DIR = 'F:/PHP/workingSpace/app11/public/uploads/backend'
     ergodicDir(INPUT_DIR)
     
